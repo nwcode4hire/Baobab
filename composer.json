@@ -1,0 +1,12 @@
+{
+    "name": "nwcode4hire/baobab",
+    "type": "library",
+    "description": "mptt",
+    "keywords": ["redis", "rpc"],
+    "homepage": "http://github.com/nwcode4hire/Baobab",
+    "autoload": {
+        "psr-0": {
+            "Baobab": "/src"
+        }
+    }
+}
